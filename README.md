@@ -1,5 +1,7 @@
 Just some Samurai Cats wallpapers, that I did with help of A.I
 -----------------------------------------------------------
+Few preview:
+
 
 <img width="450" height="257" alt="gitpreview1" src="https://github.com/user-attachments/assets/f20d3209-0e11-40d5-88d4-52b5a16b74ad" />
 
@@ -10,6 +12,9 @@ Just some Samurai Cats wallpapers, that I did with help of A.I
 <img width="450" height="257" alt="gitpreview4" src="https://github.com/user-attachments/assets/6384ffc3-e586-4eb8-8943-9d5b959553da" />
 
 -----------------------------------------------------------
+All of them has a paintbrush-like overlay on them.
+---------------------------------
+
 How to: In Terminal (Konsole, Kitty, Alacritty)
 
 cd ~/Pictures
