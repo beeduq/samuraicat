@@ -6,8 +6,6 @@ cd ~/Pictures
 
 git clone --depth=1 https://github.com/beeduq/samuraicat.git
 
-cd samuraicat
-
 ------------------------------------------------------------
 
 To update:
