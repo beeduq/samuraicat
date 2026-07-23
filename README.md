@@ -4,13 +4,13 @@ Just some Samurai Cats wallpapers, that I did with help of A.I
 
 
 -----------------------------------------------------------
-How to: In Terminal (Konsole, Kitty, alacritty)
+How to: In Terminal (Konsole, Kitty, Alacritty)
 
 cd ~/Pictures
 
 git clone --depth=1 https://github.com/beeduq/samuraicat.git
 
-The walpapers should be in Pictures, samuraicat folder now.
+The wallpapers should be in Pictures, samuraicat folder now.
 
 ------------------------------------------------------------
 
