@@ -6,6 +6,8 @@ cd ~/Pictures
 
 git clone --depth=1 https://github.com/beeduq/samuraicat.git
 
+The walpapers should be in Pictures, samuraicat folder now.
+
 ------------------------------------------------------------
 
 To update:
