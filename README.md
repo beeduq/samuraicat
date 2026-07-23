@@ -4,14 +4,14 @@ There are 15 pictures, as of 23rd of July, 2026.
 
 Few preview:
 
+<img width="350" height="200" alt="gitpreview1" src="https://github.com/user-attachments/assets/4069f42c-b351-447a-980a-50dd2d04a798" />
 
-<img width="450" height="257" alt="gitpreview1" src="https://github.com/user-attachments/assets/f20d3209-0e11-40d5-88d4-52b5a16b74ad" />
+<img width="350" height="200" alt="gitpreview2" src="https://github.com/user-attachments/assets/116e4271-6a8f-44f8-82d1-5d06be05f625" />
 
-<img width="450" height="257" alt="gitpreview2" src="https://github.com/user-attachments/assets/3c9874d0-4a64-4fbb-94d0-f9e9cf326fbe" />
+<img width="350" height="200" alt="gitpreview3" src="https://github.com/user-attachments/assets/88a20ab7-5306-4b61-a338-f0be456aa9db" />
 
-<img width="450" height="257" alt="gitpreview3" src="https://github.com/user-attachments/assets/688b9715-f751-4873-a2ad-dc474d11aecd" />
+<img width="350" height="200" alt="gitpreview4" src="https://github.com/user-attachments/assets/026c9e6d-26d7-4678-be84-7d18f138aab6" />
 
-<img width="450" height="257" alt="gitpreview4" src="https://github.com/user-attachments/assets/6384ffc3-e586-4eb8-8943-9d5b959553da" />
 
 -----------------------------------------------------------
 All of them has a paintbrush-like overlay on them.
