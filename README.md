@@ -1,5 +1,7 @@
 Just some Samurai Cats wallpapers, that I did with help of A.I
 -----------------------------------------------------------
+There are 15 pictures, as of 23rd of July.
+
 Few preview:
 
 
