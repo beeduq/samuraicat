@@ -1,7 +1,13 @@
 Just some Samurai Cats wallpapers, that I did with help of A.I
 -----------------------------------------------------------
-<img width="776" height="742" alt="Preview" src="https://github.com/user-attachments/assets/212c8ffd-9766-47d1-837f-9f33227a50e0" />
 
+<img width="450" height="257" alt="gitpreview1" src="https://github.com/user-attachments/assets/f20d3209-0e11-40d5-88d4-52b5a16b74ad" />
+
+<img width="450" height="257" alt="gitpreview2" src="https://github.com/user-attachments/assets/3c9874d0-4a64-4fbb-94d0-f9e9cf326fbe" />
+
+<img width="450" height="257" alt="gitpreview3" src="https://github.com/user-attachments/assets/688b9715-f751-4873-a2ad-dc474d11aecd" />
+
+<img width="450" height="257" alt="gitpreview4" src="https://github.com/user-attachments/assets/6384ffc3-e586-4eb8-8943-9d5b959553da" />
 
 -----------------------------------------------------------
 How to: In Terminal (Konsole, Kitty, Alacritty)
