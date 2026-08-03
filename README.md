@@ -1,6 +1,6 @@
 Just some Samurai Cats wallpapers, that I did with help of A.I
 -----------------------------------------------------------
-There are 31 pictures, as of 29th of July, 2026.
+There are 41 pictures, as of 03rd of August, 2026.
 
 They are 2688x1536 pixels, so little bigger than 1440p.
 
